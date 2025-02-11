@@ -9,6 +9,7 @@
 
 # Installation
  YouTube Guide (given to classmates): https://youtu.be/OOhoSKhPhVM
+ (Backup of this video is available in this repo, `tutorial.mp4`)
 
  1. Download AutoHotKey from website: https://www.autohotkey.com/
  2. Create dedicated AHK folder somewhere on your computer.
